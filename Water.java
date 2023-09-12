@@ -24,11 +24,11 @@ class Water {
    return r;
    }  
    
-  /*public static int mod(int s){
+  public static int mod(int s){
     int n=s%(div(2));
      System.out.println("mod" +  n);
    return n;
-   } */ 
+   } 
    
   
  public static void main(String [] args){
